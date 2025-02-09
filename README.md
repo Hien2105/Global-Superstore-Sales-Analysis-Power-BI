@@ -1,4 +1,4 @@
-# Project: Global Superstore Sales
+# [PowerBI] Global Superstore Sales
 
 ## 1. Context
 The dataset contains global sales information of a company named Superstore.  
