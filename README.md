@@ -48,17 +48,17 @@ The dataset contains global sales information include 3 data tables:
 
 ### Key Insights
 
-Performance Overview
+**Performance Overview**
 
-![image](https://github.com/user-attachments/assets/4009102b-ecb6-412b-8986-be74737f20ef)
+![](https://github.com/Hien2105/Project-s-photo/blob/main/PBI%2012.png)
 
-Market Analysis
+**Market Analysis**
 
-![image](https://github.com/user-attachments/assets/6ff7e0db-24a6-4e09-9811-3cfc2b0c7336)
+![](https://github.com/Hien2105/Project-s-photo/blob/main/PBI%2013.png)
 
-Product Analysis
+**Product Analysis**
 
-![image](https://github.com/user-attachments/assets/dcc8e811-77ee-456b-8f84-062aec4d71a5)
+![](https://github.com/Hien2105/Project-s-photo/blob/main/PBI%2014.png)
 
 Africa is not among the top markets in terms of revenue and profit, but it has strong growth potential due to several factors:
 
