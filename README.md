@@ -1,4 +1,4 @@
-# [Power BI] Global Superstore Sales
+# Sales Analysis (Power BI)
 
 ## 1. Context
 The dataset contains global sales information of a company named Superstore.  
